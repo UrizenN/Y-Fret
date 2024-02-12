@@ -132,7 +132,6 @@ class _GameInfoState extends State<GameInfo> {
 
   @override
   void initState() {
-    // TODO: implement initState
     gameInfoWidget = Text('Welcome :)');
     isCorrect = false;
     isRecording = false;

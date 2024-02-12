@@ -28,8 +28,6 @@ class _FretButtonState extends State<FretButton> {
   late bool isAskedString;
   late bool isCorrect;
   late GameMode gameMode;
-  late String detectedNote;
-  late List<int> detectedFrets;
   late List<int> askedNote;
   late Widget buttonWidget;
   late bool flagEnabled;

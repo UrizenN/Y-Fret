@@ -41,12 +41,6 @@ class _NutState extends State<Nut> {
   double fretWidth = 45;
 
   @override
-  void initState() {
-    // TODO: implement initState
-    super.initState();
-  }
-
-  @override
   Widget build(BuildContext context) {
     return Consumer<Game>(builder: (context, game, child) {
       return Stack(
