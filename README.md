@@ -2,7 +2,7 @@
 
 Y-Fret assists you memorize notes on the guitar fretboard. 
 
-The microphone mode is currently disabled.
+NOTE: The microphone mode is currently disabled.
 
 ## Getting Started
 ![Ekran görüntüsü 2024-02-13 012952](https://github.com/UrizenN/Y-Fret/assets/94642336/9b38cd04-c559-425f-91bc-0e223248d9a0)
